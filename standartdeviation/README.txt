@@ -1,3 +1,4 @@
+(Bu application'da birden fazla thread ile standart sapma hesaplanması amaçlanmıştır.)
 1-inputlar virgülle ayrılmış şekilde girilmelidir.
 2-1den kücük 20den buyuk olmayacak şekilde thread sayısı girilmelidir.
 3-her bir thread'de birden fazla eleman olması gerekliliği mantıken olduğundan (tek elemanlı bir dizinin kare toplamları/standart sapması olmayacagından)
